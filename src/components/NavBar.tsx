@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Menu, X, Github, Linkedin, Mail, FileText } from 'lucide-react';
-import resume from '../assests/resume.pdf'; // Make sure the file exists in the path
+import resume from '../assets/resume.pdf'; // Make sure the file exists in the path
 
 const NavBar: React.FC = () => {
   const [isOpen, setIsOpen] = useState(false);

@@ -1,7 +1,7 @@
 import React from 'react';
 import { MapPin, Phone, Mail, Github, Linkedin } from 'lucide-react';
-import photo from "../assests/photo.jpg"; // Ensure this path is correct
-import resume from '../assests/resume.pdf'; 
+import photo from "../assets/photo.jpg"; // Ensure this path is correct
+import resume from '../assets/resume.pdf'; 
 
 const About: React.FC = () => {
   return (

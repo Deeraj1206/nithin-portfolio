@@ -1,9 +1,9 @@
 import React from 'react';
 import { Award, Calendar, FileText, Book, Code, Brain } from 'lucide-react';
-import cert1 from "../assests/certificate1.jpg";
-import cert2 from "../assests/certificate2.jpg";
-import cert3 from "../assests/certificate3.jpg";
-import cert4 from "../assests/certificate4.jpg";
+import cert1 from "../assets/certificate1.jpg";
+import cert2 from "../assets/certificate2.jpg";
+import cert3 from "../assets/certificate3.jpg";
+import cert4 from "../assets/certificate4.jpg";
 
 interface Certificate {
   title: string;
